@@ -6,7 +6,7 @@
 
 <!-- STACK -->
 <div align="center" width="100">
-  <h1>Stack</h1>
+  <h1>Web Developer</h1>
   
   <!-- Languages -->
   </br>
@@ -15,12 +15,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
     width="60px"
     alt="Java">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg"
-    width="60px"
-    alt="Groovy">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;  
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
     width="60px"
