@@ -91,9 +91,9 @@
   <h3>Storages</h3>
 
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"
     width="60px"
-    alt="PostgreSQL">
+    alt="MySql">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg"
