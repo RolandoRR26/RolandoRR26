@@ -50,11 +50,7 @@
     width="60px"
     alt="Spring (Spring-boot)">
     &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg"
-    width="60px"
-    alt="Apache Kafka">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+ 
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-plain-wordmark.svg"
     width="60px"
@@ -78,11 +74,7 @@
     width="60px"
     alt="npm">
     &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"
-    width="60px"
-    alt="Angular">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
     width="60px"
@@ -92,21 +84,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain-wordmark.svg"
     width="60px"
     alt="Bootstrap">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"
-    width="60px"
-    alt="Jasmine">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jasmine/jasmine-plain-wordmark.svg"
-    width="60px"
-    alt="Jasmine">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karma/karma-original.svg"
-    width="60px"
-    alt="Karma">
     &nbsp;&nbsp;&nbsp;&nbsp;
   
   <!-- Storages -->
